@@ -1,19 +1,1 @@
-body {
-  font-family: Arial;
-  margin: 0;
-}
 
-nav {
-  background: #333;
-  padding: 10px;
-}
-
-nav a {
-  color: white;
-  margin: 10px;
-  text-decoration: none;
-}
-
-section {
-  padding: 50px;
-}
